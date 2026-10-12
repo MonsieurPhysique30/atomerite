@@ -1,0 +1,17 @@
+{
+  "name": "Atomérite",
+  "short_name": "Atomérite",
+  "description": "Le site de la classe de M. Beauvilain",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E8FA3",
+  "theme_color": "#0E8FA3",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
